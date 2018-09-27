@@ -1,13 +1,12 @@
 package aritmeticos;
 
-public class Soma {
-
+public class Divisao {
+	//linha de comentario nao sera executada
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int primeiroNumero = 10;
 		int segundoNumero = 5;
 		
-		System.out.println(primeiroNumero + segundoNumero);
-	}
+		System.out.println(primeiroNumero / segundoNumero);
 
+	}
 }
