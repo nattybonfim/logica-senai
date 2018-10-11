@@ -3,7 +3,7 @@ package exercicios;
 public class Exponencial {
 	public static void main(String[] args) {
 
-		System.out.println(Exponencial.calcular(2, 2));
+		System.out.println(Exponencial.calcular(2,2 ));
 
 	}
 

@@ -8,7 +8,7 @@ public class Fatorial {
 
 	private static int calcular(int n1) {
 		if (n1 == 0) {
-			System.out.print(" = ");
+			
 			return 1;
 	}else {
 			

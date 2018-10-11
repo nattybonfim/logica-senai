@@ -10,9 +10,9 @@ public class OrelhaDeGato {
 			return 0;
 
 		} else {
-			
+
 			return 2 + calcular(numeroGatos - 1);
-         
+
 		}
 
 	}
